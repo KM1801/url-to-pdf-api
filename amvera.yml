@@ -6,3 +6,6 @@ meta:
 
 run:
   scriptName: bagend.js
+  
+build:
+  additionalCommands: npm run build
